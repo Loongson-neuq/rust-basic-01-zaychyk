@@ -1,0 +1,11 @@
+/home/ranky/mycode/rust/rust-basic-01-zaychyk/guess_game/target/debug/deps/libppv_lite86-3490f0c72390aee7.rmeta: /home/ranky/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/ppv-lite86-0.2.20/src/lib.rs /home/ranky/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/ppv-lite86-0.2.20/src/soft.rs /home/ranky/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/ppv-lite86-0.2.20/src/types.rs /home/ranky/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/ppv-lite86-0.2.20/src/x86_64/mod.rs /home/ranky/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/ppv-lite86-0.2.20/src/x86_64/sse2.rs
+
+/home/ranky/mycode/rust/rust-basic-01-zaychyk/guess_game/target/debug/deps/libppv_lite86-3490f0c72390aee7.rlib: /home/ranky/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/ppv-lite86-0.2.20/src/lib.rs /home/ranky/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/ppv-lite86-0.2.20/src/soft.rs /home/ranky/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/ppv-lite86-0.2.20/src/types.rs /home/ranky/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/ppv-lite86-0.2.20/src/x86_64/mod.rs /home/ranky/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/ppv-lite86-0.2.20/src/x86_64/sse2.rs
+
+/home/ranky/mycode/rust/rust-basic-01-zaychyk/guess_game/target/debug/deps/ppv_lite86-3490f0c72390aee7.d: /home/ranky/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/ppv-lite86-0.2.20/src/lib.rs /home/ranky/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/ppv-lite86-0.2.20/src/soft.rs /home/ranky/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/ppv-lite86-0.2.20/src/types.rs /home/ranky/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/ppv-lite86-0.2.20/src/x86_64/mod.rs /home/ranky/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/ppv-lite86-0.2.20/src/x86_64/sse2.rs
+
+/home/ranky/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/ppv-lite86-0.2.20/src/lib.rs:
+/home/ranky/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/ppv-lite86-0.2.20/src/soft.rs:
+/home/ranky/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/ppv-lite86-0.2.20/src/types.rs:
+/home/ranky/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/ppv-lite86-0.2.20/src/x86_64/mod.rs:
+/home/ranky/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/ppv-lite86-0.2.20/src/x86_64/sse2.rs:
