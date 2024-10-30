@@ -1,0 +1,4 @@
+#忽略Cargo.lock
+guess_game/Cargo.lock
+#忽略target文件夹
+guess_game/target/
